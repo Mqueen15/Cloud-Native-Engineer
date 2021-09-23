@@ -2,6 +2,7 @@
 ## _My Projects List :_
 ## - 1/ Build a containerized web application with docker
 ![caption](https://github.com/Mqueen15/Cloud-Native-Engineer/blob/main/Microsoft%20Technology%20company/Build%20a%20containerized%20web%20application%20with%20docker.gif?raw=true)
+
 Building and running your own Docker images is to take an existing image from Docker Hub and run it locally on your computer. Here the steps for a good starting :
 
 - Pull and run a sample application from Docker Hub
