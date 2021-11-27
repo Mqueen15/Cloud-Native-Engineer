@@ -17,7 +17,7 @@ def hello():
     return "Hello World!"
 ```
 
-* Slash Status route :
+* Slash Status route (endpoint) :
 
 Return a hard-coded response, which is going to be a JSON response with the main result being ''Okay-healthy'' , and it's going to return a 200 HTTP code, meaning that the request was successful
 
@@ -34,7 +34,11 @@ def healthcheck():
     return response
 ```
 
-* Slash Metrics route :
+* Slash Metrics route (endpoint):
+
+Hardcode a JSON response. Where we return the status being successful, that can return a code zero which means the requests has been successful. Then we can have metrics for the user account or the amount of user which are active. 
+
+We return at 200, which ensures that the request was successful
 
 ```sh
 @app.route('/metrics')
