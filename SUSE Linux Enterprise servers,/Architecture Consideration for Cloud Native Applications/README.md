@@ -19,6 +19,8 @@ def hello():
 
 * Slash Status route :
 
+Return a hard-coded response, which is going to be a JSON response with the main result being ''Okay-healthy'' , and it's going to return a 200 HTTP code, meaning that the request was successful
+
 ```sh
 @app.route('/status')
 def healthcheck():
