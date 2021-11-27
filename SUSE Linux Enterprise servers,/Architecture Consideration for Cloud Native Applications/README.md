@@ -4,7 +4,7 @@ our simple Python application which resides in the 'app.py' file.
 
 If we just open that particular file by using the py command, we'll be able to see that we have a Flask application,and then we have a couple of routes 
 such as 
-*Main route
+* Main route
 which is going to return a ''Hello World!'' application
 ```sh
 @app.route("/") 
