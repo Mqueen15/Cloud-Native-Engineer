@@ -57,5 +57,5 @@ To run this application, we're going to use a Python command. Make sure that Pyt
 
 We have an application running on localhost on port 5000. This port is the default port which is going to be opened by the Flask web server.
 
-
+![N|Solid](https://github.com/Mqueen15/Cloud-Native-Engineer/blob/main/SUSE%20Linux%20Enterprise%20servers,/Architecture%20Consideration%20for%20Cloud%20Native%20Applications/localhost%20&%20port.png?raw=true)
 
