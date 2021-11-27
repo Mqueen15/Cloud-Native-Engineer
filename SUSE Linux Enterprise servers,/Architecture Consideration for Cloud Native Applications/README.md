@@ -59,3 +59,5 @@ We have an application running on localhost on port 5000. This port is the defau
 
 ![N|Solid](https://github.com/Mqueen15/Cloud-Native-Engineer/blob/main/SUSE%20Linux%20Enterprise%20servers,/Architecture%20Consideration%20for%20Cloud%20Native%20Applications/localhost%20&%20port.png?raw=true)
 
+if we go to localhost, which is going to be on 127.0.0.1 on port 5000 and click "Enter", then we'll see our main ''Hello World!'' message, which we expect from our application
+
