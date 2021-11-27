@@ -71,3 +71,13 @@ If we navigate back to our bar and after the port 5,000 we input a forward slash
 
 
 
+
+If we test our metrics endpoint,so we go back to our navigation bar and type metrics and click ''Enter'',we'll be able to see the hard-coded response with our User Account being 140, and the user, which are active here set to 23 and we can see the status of this request being successful as well
+![N|Solid](https://github.com/Mqueen15/Cloud-Native-Engineer/blob/main/SUSE%20Linux%20Enterprise%20servers,/Architecture%20Consideration%20for%20Cloud%20Native%20Applications/metrics%20endpoint.png?raw=true)
+
+
+This is pretty much how it would be able to create multiple endpoints for an application and test them using a local browser such as Google Chrome or Firefox.
+
+
+
+
