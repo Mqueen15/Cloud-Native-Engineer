@@ -1,6 +1,6 @@
 
 Creating new endpoints for a Python application by using the Flask framework.
-our simple Python application which resides in the 'app.py' file.
+our simple Python application which resides in the `app.py` file.
 
 If we just open that particular file by using the py command, we'll be able to see that we have a Flask application,and then we have a couple of routes 
 such as 
