@@ -53,3 +53,9 @@ def metrics():
     return response
 ```
 
+To run this application, we're going to use a Python command. Make sure that Python already has been installed on your machine !
+
+We have an application running on localhost on port 5000. This port is the default port which is going to be opened by the Flask web server.
+
+
+
