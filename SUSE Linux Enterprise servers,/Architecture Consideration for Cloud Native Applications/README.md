@@ -1,4 +1,7 @@
 
+# Python Flask Web Application -Health Checks-
+## About the application :
+
 Creating new endpoints for a Python application by using the Flask framework.
 our simple Python application which resides in the `app.py` file.
 
